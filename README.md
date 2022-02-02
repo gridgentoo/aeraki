@@ -1,3 +1,7 @@
+Оригинальный репозиторий.  
+https://github.com/aeraki-mesh/aeraki.  
+
+
 <!--
 # Copyright Aeraki Authors
 #
